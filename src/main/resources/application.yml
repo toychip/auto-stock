@@ -12,3 +12,11 @@ spring:
   batch:
     jdbc:
       initialize-schema: always
+
+kis:
+  base-url: https://openapi.koreainvestment.com:9443
+  app-key: YOUR_APP_KEY
+  app-secret: YOUR_APP_SECRET
+  cano: "12345678" # 계좌번호
+  acnt-prdt-cd: "01" # 계좌상품코드.
+  cust-type: "P"
