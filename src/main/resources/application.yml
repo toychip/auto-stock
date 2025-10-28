@@ -20,3 +20,7 @@ kis:
   cano: "12345678" # 계좌번호
   acnt-prdt-cd: "01" # 계좌상품코드.
   cust-type: "P"
+
+coinone:
+  base-url: https://api.coinone.co.kr
+  quote-currency: KRW
